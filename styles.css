@@ -353,6 +353,7 @@
   box-sizing: border-box;
   text-align: start;
   padding: 24px 0px;
+  padding-left: 20px;
 }
 
 .subs{
@@ -372,7 +373,8 @@
   justify-items: center;
 }
 .spam{
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 12px;
 }
 .footer{
   display: flex;
